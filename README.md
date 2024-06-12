@@ -76,7 +76,7 @@ cd experiments
 bash run_benchmark.sh
 ```
 
-## Train Your Own Linerized-LLM
+## Train Your Own Linearized-LLM
 
 
 ### FLASH Training from Scratch
